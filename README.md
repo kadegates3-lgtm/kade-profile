@@ -1,16 +1,14 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+# Hi, I'm Kade Gates
 
-_"Your sample quote here!"_
+## About Me
+I am a freshman studying cybersecurity at UTSA. I enjoy gaming, working with computers, and learning how to protect systems.
+
+## Skills
+I am learning to use Git, GitHub, Linux, and the command line. I have practiced creating a virtual machine, setting up SSH keys, and tracking changes in repositories.
+
+## Goals
+I want to earn the CompTIA Security+ certification and gain experience through an internship. I am interested in helping companies protect their systems.
+
+## Connect With Me
+- [My GitHub](https://github.com/kadegates3-lgtm)
+- [My LinkedIn](https://www.linkedin.com/in/kade-gates-9b54a9447/)
